@@ -1,1 +1,9 @@
-
+name: SkyCore
+version: 0.0.1
+api: 3.0.0-ALPHA10
+main: jojo77777\Main
+author: OpGamer
+commands:
+  core:
+   description: "Test Core"
+   
